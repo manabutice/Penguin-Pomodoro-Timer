@@ -1,10 +1,12 @@
-# Penguin-Pomodoro-Timer
+◇作品名
 
-# ◇詳細資料
+ペンギンポモドーロタイマー　
+
+◇詳細資料
 
 https://pontaro.net/227/
 
-# ◇内容
+◇内容
 
 ポモドーロタイマーの作り方
 今回は特にJavaScriptの処理の解説をします。
